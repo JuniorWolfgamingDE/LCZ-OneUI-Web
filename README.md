@@ -1,7 +1,7 @@
 
-# One UI Web
+# LOLCATZ One UI Web
 
-**One UI Web** is a framework inspired by the Samsung One UI Interface.
+**LOLCATZ One UI Web** is a framework inspired by the Samsung One UI Interface, based on Samsung's original One UI Web.
 
 The goal is simplify the creation of mobile web apps with the **One UI’s** user experience, as well as to optimise your web apps for Samsung mobile.
 
